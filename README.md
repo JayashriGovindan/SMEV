@@ -1,1 +1,1 @@
-# SMPE - Scientific Methodology and Experimental Evaluation
+# SMEV - Scientific Methodology and Experimental Evaluation
