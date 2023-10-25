@@ -11,29 +11,37 @@
 - [x] Report the URL of your git project, your mattermost ID on the CodiMD Pad.
 
 ### Progress Note:
-- Pad: https://codimd.math.cnrs.fr/Dai2ZzqzTwezOMZVIyMN-g#
-- Mattermost: https://framateam.org/smpe-2023-2024/channels/town-square , ID: @jayashrigovindan
-- MOOC: https://lms.fun-mooc.fr/login?next=richie/en/courses/reproducible-research-methodological-principles-transparent-scie/ , ID: jayashrigovindan
-- Github: https://github.com/JayashriGovindan/SMPE 
-- Computationsl Document System: Jupyter Notebook, Rstudio, Emacs - OrgMode , Preferred one - Jupyter Notebook
+- Registered Pad: [CodiMD Pad Access Link](https://codimd.math.cnrs.fr/Dai2ZzqzTwezOMZVIyMN-g#)
+- Registered Mattermost: [Mattermost Access Link](https://framateam.org/smpe-2023-2024/channels/town-square) , ID: @jayashrigovindan
+- Registered MOOC: [MOOC Access Link](https://lms.fun-mooc.fr/login?next=richie/en/courses/reproducible-research-methodological-principles-transparent-scie/) , ID: jayashrigovindan
+- Github repo: https://github.com/JayashriGovindan/SMPE 
+- Computational Document System setup done for Jupyter Notebook, Rstudio, Emacs - OrgMode.
+- MOOC - Modules 1 completed along with all the quiz and exercises; Module 2 is in process.
 
 ### 2 - Visualization and Exploratory Data Analysis | Descriptive statistics; Correlation, causality, and spurious correlation
 ### Homework:
 - [x] Start learning R by reading this R_crash_course notes.
-- [ ] Criticize every figure of Jean-Marc's slides by:
+- [x] Criticize every figure of Jean-Marc's slides by:
    1. Applying the checklist for good graphics;
    2. Proposing a better representation (hand-drawing is fine) that passes the checklist.
- - [x] Report this work for at least 3 figures on you github/gitlab project.
- - [ ] MOOC: Complete exercise 5 of module 2 (/Challenger/). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
+ - [x] Report this work for at least 3 figures on your github/gitlab project.
+ - [x] MOOC: Complete exercise 5 of module 2 (/Challenger/). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
        
 ### Progress Note:
+- [R_crash_course.rmd](https://github.com/JayashriGovindan/SMPE/blob/main/code/r_crash_course_practice.Rmd) practiced using RStudio env.
+- Applied checklist for good graphic and analysed for 3 figures - [Graphic_Analysis](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-05-10_Graphic_Analysis.md)
+- Module 2 completed along with all the quiz and exercises.
+- Exercise 5 of MOOC Module 2 - [Brief Analysis on Shuttle - Challenger](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-05-10_Challenger_Analysis.md)
 
 ### 3 - Processing data with the Tidyverse, Data curation, beautiful viz with ggplot
 ### Homework:
-- [ ] Use good naming and organization conventions in your repos.
-- [ ] Complete the Challenger exercise if you haven't done so.
-- [ ] Engage in module 3 of the MOOC and choose a topic for the peer evaluation (final task of module 3).
+- [x] Use good naming and organization conventions in your repos.
+- [x] Complete the Challenger exercise if you haven't done so.
+- [x] Engage in module 3 of the MOOC and choose a topic for the peer evaluation (final task of module 3).
 - [ ] Here is an opportunity to practice your data curation/analysisskills by producing the [[file:../2022_10_Grenoble/03_Names-Methodo2022-exercise.Rmd][First name/last name analysis in a computational document]]. I encourage you to use =dplyr= and =ggplot= for this analysis.
       
 ### Progress Note:
+- Organised git repos and added free MIT license.
+- MOOC - Module 3 is in process.
+- Topic choosen for peer evaluation: "Autour du Paradoxe de Simpson". (Seemed interesting to analyse this data!)
 
