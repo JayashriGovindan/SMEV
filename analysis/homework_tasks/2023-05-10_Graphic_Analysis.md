@@ -2,7 +2,7 @@
 
 ### Graph 1: 
 
-![image](assets/graph_1.png)
+![image](../assets/graph_1.png)
 
 ### Brief Interpretation :
 
@@ -59,7 +59,7 @@ There are more plots on the graph than required. The axes' labels are vague and 
 
 ### Graph 2: 
 
-![image](assets/graph_2.png)
+![image](../../assets/graph_2.png)
 
 ### Brief Interpretation:
 
@@ -116,7 +116,7 @@ The lack of units on the graph's axes causes the graph to appear hazy. The title
 
 ### Graph 3: 
 
-![image](assets/graph_3.png)
+![image](./assets/graph_3.png)
 
 ### Brief Interpretation:
 
