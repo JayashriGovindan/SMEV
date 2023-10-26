@@ -44,4 +44,6 @@
 - Organised git repos and added free MIT license.
 - MOOC - Module 3 is in process.
 - Topic choosen for peer evaluation: "Autour du Paradoxe de Simpson". (Seemed interesting to analyse this data!)
+- First Name analysis - started with data exploration & visualizations, yet to comment on it and complete the whole analysis.
+  [Progress](https://github.com/JayashriGovindan/SMPE/blob/main/code/name_analysis.ipynb)
 
