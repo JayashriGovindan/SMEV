@@ -46,4 +46,8 @@
 - Topic choosen for peer evaluation: "Autour du Paradoxe de Simpson". (Seemed interesting to analyse this data!)
 - First Name analysis - started with data exploration & visualizations, yet to comment on it and complete the whole analysis.
   [Progress](https://github.com/JayashriGovindan/SMPE/blob/main/code/name_analysis.ipynb)
-
+  
+### 4 - Data management tips (Data Tools) and introduction to confidence interval.
+### Progress Note:
+- MOOC - Module 3 completed along with all the quiz and exercises.
+- Started working on the peer evaluation task -  Paradoxe de Simpson
