@@ -51,3 +51,17 @@
 ### Progress Note:
 - MOOC - Module 3 completed along with all the quiz and exercises.
 - Started working on the peer evaluation task -  Paradoxe de Simpson
+
+### 5 - Proba, CI, The linear model
+### Progress Note:
+- MOOC - Module 4 started.
+- Plotting confidence interval in R [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/confidence_interval.ipynb)
+
+### 6 - Clearly defining the experiment and having the right tools to analyze it
+### Homework:
+- [x] First Name Analysis - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/name_analysis.ipynb)
+- [x] Empirical evaluation of Fitts’s law. Code updated under [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/fitts_law_analysis.ipynb) and a analysis report done with all the graphs and observations for easier go through - [Analysis Report](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-11-22_Analysis_Report.pdf)
+### Progress Note:
+- MOOC - Module 4 is in progress and peer evaluation task -  Paradoxe de Simpson is almost done, a bit more to add.
+
+  
