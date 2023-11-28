@@ -62,6 +62,8 @@
 - [x] First Name Analysis - [Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/First_Name_Data_Analysis.ipynb)
 - [x] Empirical evaluation of Fitts’s law. Code updated under [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/fitts_law_analysis.ipynb) and a analysis report done with all the graphs and observations for easier go through - [Analysis Report](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-11-22_Analysis_Report.pdf)
 ### Progress Note:
-- MOOC - Module 4 is in progress and peer evaluation task -  Paradoxe de Simpson is almost done, a bit more to add.
+- MOOC - Module 4 completed and peer evaluation task -  Paradoxe de Simpson is almost done, a bit more to add.
+
+
 
   
