@@ -64,6 +64,9 @@
 ### Progress Note:
 - MOOC - Module 4 completed and peer evaluation task -  Paradoxe de Simpson is almost done, a bit more to add.
 
-
-
+### 7 - The linear model
+### Homework:
+- [x] Practice on linear regression model with own data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/linear_regression_model_practice.ipynb) and also with M2R-ParallelQuicksort data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/parallel_quick_sort_linear_model.ipynb)
+### Progress Note:
+- MOOC - All modules completed and peer evaluation task -  Paradoxe de Simpson is in progress.
   
