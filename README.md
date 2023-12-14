@@ -69,4 +69,20 @@
 - [x] Practice on linear regression model with own data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/linear_regression_model_practice.ipynb) and also with M2R-ParallelQuicksort data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/parallel_quick_sort_linear_model.ipynb)
 ### Progress Note:
 - MOOC - All modules completed and peer evaluation task -  Paradoxe de Simpson is in progress.
-  
+
+### 8 - Multiple testing and ANOVA (p-hacking)
+### Homework:
+- [ ] Keep building intuition on linear model
+- [ ] Try to complete the peer-evaluation of the MOOC
+
+### 9 - A Bayesian perspective on regularization and model selection + Sequential DoE (screening, LHS, D-opt, …)
+### Homework:
+- [x] Two views on Open Science:
+https://digitalscience.figshare.com/articles/report/The_State_of_Open_Data_2023/24428194
+https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/
+
+- A list of view points are mentioned here - [Document](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-12-14_Article_View_Points.pdf), highlighted the key points for easier go through!
+
+- A short quick summary:
+1. The State of Open Data : Overall, the paper underlines the facts about the survey undergone, the difficulties and developments in data management strategies, signifies the knowledge gap,  and stresses the need to standardize the process of exchanging data. There were intersting facts on real data and I gained a wider perspective on open data from the article.
+2. The Passport for Open Science : The material helped me understand that we could freely share our thesis work by submitting it to peer-reviewed online journals, publishing it in easily accessible publications, taking part in online forums, and sharing our data and code. Adopt best practices, make use of trustworthy formats, keep up with developments in open research, and ask for help when needed.
