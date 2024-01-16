@@ -38,7 +38,7 @@
 - [x] Use good naming and organization conventions in your repos.
 - [x] Complete the Challenger exercise if you haven't done so.
 - [x] Engage in module 3 of the MOOC and choose a topic for the peer evaluation (final task of module 3).
-- [ ] Here is an opportunity to practice your data curation/analysisskills by producing the [[file:../2022_10_Grenoble/03_Names-Methodo2022-exercise.Rmd][First name/last name analysis in a computational document]]. I encourage you to use =dplyr= and =ggplot= for this analysis.
+- [X] To practice data analysis using dplyr and ggplot, implementing First name analysis, [Exercise Detail](https://github.com/alegrand/SMPE/blob/master/sessions/2022_10_Grenoble/03_Names-Methodo2022-exercise.Rmd) .
       
 ### Progress Note:
 - Organised git repos and added free MIT license.
@@ -72,8 +72,10 @@
 
 ### 8 - Multiple testing and ANOVA (p-hacking)
 ### Homework:
-- [ ] Keep building intuition on linear model
-- [ ] Try to complete the peer-evaluation of the MOOC
+- [x] Keep building intuition on linear model
+Added explanatory details on linear regression model with own data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/linear_regression_model_practice.ipynb) and also with M2R-ParallelQuicksort data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/parallel_quick_sort_linear_model.ipynb)
+- [x] Try to complete the peer-evaluation of the MOOC
+Completed peer-evaluation of the MOOC
 
 ### 9 - A Bayesian perspective on regularization and model selection + Sequential DoE (screening, LHS, D-opt, …)
 ### Homework:
@@ -84,5 +86,18 @@ https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-p
 - A list of view points are mentioned here - [Document](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-12-14_Article_View_Points.pdf), highlighted the key points for easier go through!
 
 - A short quick summary:
-1. The State of Open Data : Overall, the paper underlines the facts about the survey undergone, the difficulties and developments in data management strategies, signifies the knowledge gap,  and stresses the need to standardize the process of exchanging data. There were intersting facts on real data and I gained a wider perspective on open data from the article.
+1. The State of Open Data : Overall, the paper underlines the facts about the survey undergone, the difficulties and developments in data management strategies, shows the knowledge gap,  and stresses the need to standardize the process of exchanging data. There were intersting facts on real data and I gained a wider perspective on open data from the article.
 2. The Passport for Open Science : The material helped me understand that we could freely share our thesis work by submitting it to peer-reviewed online journals, publishing it in easily accessible publications, taking part in online forums, and sharing our data and code. Adopt best practices, make use of trustworthy formats, keep up with developments in open research, and ask for help when needed.
+
+### 10 - Scientific integrity
+### Homework:
+- [x] Play with the DoE Shiny Application [Experiment Page - user_c2727](https://arnaud-legrand.shinyapps.io/design_of_experiments/?user_c2727)
+Started analysing with random trail experiments.
+
+### 10 - Incremental DoE: A Bayesian perspective, Reinforcement Learning and Surrogates (Bandit, GP)
+### Homework:
+- [x]  Keep playing with the DoE Shiny Application.
+- [x]  Added explanatory comments to linear model experiment.
+- [x]  Pick a topic and prepare a short presentation.
+### Progress:
+- [x] MOOC Completion, Peer-evaluation done
