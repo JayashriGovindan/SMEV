@@ -102,7 +102,8 @@ Started analysing with random trail experiments. [Experiment Page - user_c2727](
 My topic was on Chatbot technology.
 1) The first one was a general overview of Chatbot, the usecases, the weakness and recommendation to overcome difficulties on its usage. It ends with the thoughtful quote: “Current technology focuses on chatbots learning to talk but not to think!”.
 2) The second one seemed very interesting (also quite emotional to read on :) ) , it was a DadBot created by Mr. James in remembrance of his dad who passed away due to lung cancer. The technology intends to restore and preserve memories, so promoting a more sustainable and meaningful manner of remembering and connecting with the past.
-My detailed review on both with respect to the 4 criterias mentioned. [Chatbot Article Review](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2024-01-18_Chatbot_Article_Review.pdf)
+My detailed review on both with respect to the 4 criterias mentioned. [Chatbot Article Review PPT](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2024-01-18_Chatbot_Article_Review_PPT.pdf).
+( A draft report before i was making the PPT. [Draft Report](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2024-01-18_Chatbot_Article_Review_Draft.pdf) )
 ### Progress:
 - [x] MOOC Completion: All the modules and exercises completed.
 Peer-evaluation: Reviewed for 2 other peers, where one was reproducible and overall good. Other was only partially reproducible and study of experiment seemed incomplete. Awaiting for response of my submission from other peers. [Simpsons Paradox Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/simpsons_paradox_peer_evl_analysis.ipynb)
