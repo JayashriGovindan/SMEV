@@ -59,7 +59,7 @@
 
 ### 6 - Clearly defining the experiment and having the right tools to analyze it
 ### Homework:
-- [x] First Name Analysis - [Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/First_Name_Data_Analysis.ipynb)
+- [x] First Name Analysis - [Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/first_name_data_analysis.ipynb)
 - [x] Empirical evaluation of Fitts’s law. Code updated under [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/fitts_law_analysis.ipynb) and a analysis report done with all the graphs and observations for easier go through - [Analysis Report](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2023-11-22_Analysis_Report.pdf)
 ### Progress Note:
 - MOOC - Module 4 completed and peer evaluation task -  Paradoxe de Simpson is almost done, a bit more to add.
@@ -75,7 +75,7 @@
 - [x] Keep building intuition on linear model
 Added explanatory details on linear regression model with own data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/linear_regression_model_practice.ipynb) and also with M2R-ParallelQuicksort data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/parallel_quick_sort_linear_model.ipynb)
 - [x] Try to complete the peer-evaluation of the MOOC
-Completed peer-evaluation of the MOOC
+Completed peer-evaluation of the MOOC. [Analysis Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/simpsons_paradox_peer_evl_analysis.ipynb)
 
 ### 9 - A Bayesian perspective on regularization and model selection + Sequential DoE (screening, LHS, D-opt, …)
 ### Homework:
@@ -91,13 +91,18 @@ https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-p
 
 ### 10 - Scientific integrity
 ### Homework:
-- [x] Play with the DoE Shiny Application [Experiment Page - user_c2727](https://arnaud-legrand.shinyapps.io/design_of_experiments/?user_c2727)
-Started analysing with random trail experiments.
+- [x] Play with the DoE Shiny Application.
+Started analysing with random trail experiments. [Experiment Page - user_c2727](https://arnaud-legrand.shinyapps.io/design_of_experiments/?user_c2727)
 
 ### 10 - Incremental DoE: A Bayesian perspective, Reinforcement Learning and Surrogates (Bandit, GP)
 ### Homework:
-- [x]  Keep playing with the DoE Shiny Application.
-- [x]  Added explanatory comments to linear model experiment.
+- [x]  Playing with the DoE Shiny Application. My way of basic expermentation on DoE Shiny App. [Experimentation Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/design_of_experiment_analysis.ipynb)
+- [x]  Added explanatory comments that was suggested on earlier linear model experiment. Linear regression model with own data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/linear_regression_model_practice.ipynb) and with M2R-ParallelQuicksort data - [Code](https://github.com/JayashriGovindan/SMPE/blob/main/code/parallel_quick_sort_linear_model.ipynb)
 - [x]  Pick a topic and prepare a short presentation.
+My topic was on Chatbot technology.
+1) The first one was a general overview of Chatbot, the usecases, the weakness and recommendation to overcome difficulties on its usage. It ends with the thoughtful quote: “Current technology focuses on chatbots learning to talk but not to think!”.
+2) The second one seemed very interesting (also quite emotional to read on :) ) , it was a DadBot created by Mr. James in remembrance of his dad who passed away due to lung cancer. The technology intends to restore and preserve memories, so promoting a more sustainable and meaningful manner of remembering and connecting with the past.
+My detailed review on both with respect to the 4 criterias mentioned. [Chatbot Article Review](https://github.com/JayashriGovindan/SMPE/blob/main/analysis/2024-01-18_Chatbot_Article_Review.pdf)
 ### Progress:
-- [x] MOOC Completion, Peer-evaluation done
+- [x] MOOC Completion: All the modules and exercises completed.
+Peer-evaluation: Reviewed for 2 other peers, where one was reproducible and overall good. Other was only partially reproducible and study of experiment seemed incomplete. Awaiting for response of my submission from other peers. [Simpsons Paradox Report](https://github.com/JayashriGovindan/SMPE/blob/main/code/simpsons_paradox_peer_evl_analysis.ipynb)
